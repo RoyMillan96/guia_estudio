@@ -1,1 +1,1 @@
-mi primer guia de git con el commit
+mi primer guia de git 
